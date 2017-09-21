@@ -9,6 +9,7 @@ metadata:
   dependencies: ['docker.io/mariadb:latest', 'docker.io/tvelocity/etherpad-lite:latest']
   displayName: Etherpad (APB)
   longDescription: An apb that deploys Etherpad Lite
+  providerDisplayName: "Red Hat, Inc."
 plans:
   - name: default
     description: A single etherpad application with no DB
