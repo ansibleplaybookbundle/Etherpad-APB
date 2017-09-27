@@ -1,7 +1,7 @@
 FROM ansibleplaybookbundle/apb-base
 # MAINTAINER {{ $MAINTAINER }}
 
-LABEL "com.redhat.apb.version"="0.1.0"
+LABEL "com.redhat.apb.version"="1.0"
 LABEL "com.redhat.apb.spec"=\
 "aWQ6IDZmMTgwY2I0LTMwZDQtNGE4YS05NzVlLWU5MWNhN2VkMmVkOQpuYW1lOiBldGhlcnBhZC1h\
 cGIKaW1hZ2U6IGFuc2libGVwbGF5Ym9va2J1bmRsZS9ldGhlcnBhZC1hcGIKZGVzY3JpcHRpb246\
