@@ -1,6 +1,5 @@
 version: 1.0
 name: etherpad-apb
-image: ansibleplaybookbundle/etherpad-apb
 description: Note taking web application
 bindable: True
 async: optional
