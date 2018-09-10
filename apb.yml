@@ -1,9 +1,9 @@
 version: 1.0
 name: etherpad-apb
 description: Note taking web application
-bindable: True
+bindable: False
 async: optional
-metadata: 
+metadata:
   documentationUrl: https://github.com/ether/etherpad-lite/wiki
   imageUrl: https://translatewiki.net/images/thumb/6/6f/Etherpad_lite.svg/200px-Etherpad_lite.svg.png
   dependencies: ['docker.io/mariadb:latest', 'docker.io/tvelocity/etherpad-lite:latest']
